@@ -1,14 +1,14 @@
-# Salut, moi c'est Princio Rafalimaeva 👋 
-### Développeur Web Full-Stack & Étudiant en Électronique & Systèmes d'Information
+# Salut, moi c'est Princio RAFALIMAEVA 👋 
+### Étudiant en Électronique  Systèmes Informatique et Intelligence Artificielle
 
-Bienvenue sur mon profil GitHub ! Passionné par le code, les infrastructures réseau et les bases de données, j'aime concevoir des architectures back-end solides ainsi que des projets connectés (IoT).
+Bienvenue sur mon profil GitHub ! Passionné par le code, les infrastructures réseau et les bases de données, j'aime concevoir des architectures front-end, back-end solides ainsi que des projets connectés (IoT).
 
 ---
 
 ## 🚀 À Propos de Moi
 
-- 🎓 **Études :** Licence en *Électronique, Systèmes d'Information et Intelligence Artificielle* (ESIIA) à l'**ISPM**
-- 💻 **Spécialités :** Développement Back-End, Conception de Bases de Données & Réseaux
+- 🎓 **Études :** Électronique  Systèmes Informatique et Intelligence Artificielle (ESIIA) à l'**ISPM**
+- 💻 **Spécialités :** Développement Front-end & Back-End, Conception de Bases de Données & Réseaux
 - 🤖 **Projets IoT :** Conception de systèmes embarqués combinant microcontrôleurs (ESP8266/Arduino) et Web
 - 🎯 **Objectif :** Créer des applications performantes, sécurisées et évolutives
 
