@@ -47,4 +47,5 @@ Bienvenue sur mon profil GitHub ! Passionné par le code, les infrastructures r�
 ## 📫 Me Contacter
 
 - 📧 **Email :** [prafalimaeva@gmail.com](mailto:prafalimaeva@gmail.com)
-- 💼 **LinkedIn :** [Princio Rafalimaeva](https://www.linkedin.com) *(Pense à mettre ton vrai lien)*
+- 💼 **LinkedIn :** www.linkedin.com/in/princio-rafalimaeva-674846414
+ 
