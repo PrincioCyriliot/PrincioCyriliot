@@ -25,6 +25,7 @@ Bienvenue sur mon profil GitHub ! Passionn√© par le code, les infrastructures r√
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_8086-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 
 ### BDD, R√©seaux & Outils
@@ -32,6 +33,16 @@ Bienvenue sur mon profil GitHub ! Passionn√© par le code, les infrastructures r√
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus_ISIS-00599C?style=for-the-badge&logo=intel&logoColor=white)
+![Looping](https://img.shields.io/badge/Looping_MCD-4A90E2?style=for-the-badge&logo=databricks&logoColor=white)
+![DOSBox](https://img.shields.io/badge/DOSBox-000000?style=for-the-badge&logo=dosbox&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314685?style=for-the-badge&logo=kicad&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
