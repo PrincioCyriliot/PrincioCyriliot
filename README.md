@@ -1,5 +1,5 @@
 # Salut, moi c'est Princio RAFALIMAEVA 👋 
-### Étudiant en Électronique  Systèmes Informatique et Intelligence Artificielle
+### Étudiant en Électronique  Systèmes Informatiques et Intelligence Artificielle
 
 Bienvenue sur mon profil GitHub ! Passionné par le code, les infrastructures réseau et les bases de données, j'aime concevoir des architectures front-end, back-end solides ainsi que des projets connectés (IoT).
 
